@@ -1,0 +1,24 @@
+gaussian filter (dim. red.)
+0,1 (sex)
+0,1 (cell type)
+0-3 (stimulus)
+
+Stop fucking overfitting to the training data
+	Jesus Christ
+
+clustering neuronal data
+	Clustering blindly, comparing to actual labels (Songs, then add additional labels)
+	Use clusters to improve classification
+
+Dimensionality reduction
+	Attempt to pre-process neuronal data to reduce noise/complexity and aid in classification
+
+clustering song properties (clustering problem? Figure out what kind of problem this is (Cla,R,Clu,DR)) (Check out NLP in machine learning)
+	Picking apart songs into their component parts (making sure it uses contiguous pieces)
+	Classifying/Correlating between song features and neuronal responses
+		Beyond song "pieces" find different ways of comparing song elements (frequency, entropy, etc.)
+
+Find more sources in ML literature
+	1) Ephys/neuron data
+	2) Song/sound classification
+	3)
