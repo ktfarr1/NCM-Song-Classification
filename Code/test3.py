@@ -1,16 +1,23 @@
 import numpy as np
 import glob
+import os as os
 from fractions import Fraction
 from sklearn import svm
 
-# key_paths = np.array(glob.glob("..\\Data\\150820\\Keys\\*41*B*.csv"))
-# mem_paths = np.array(glob.glob("..\\Data\\150820\\Memory\\*41*B*.txt"))
+bin_sizes = [2,4,8,16,32,64,128,256]
+
+key_paths = np.array(glob.glob("..\\Data\\155665\\Keys\\*.csv"))
+mem_paths = np.array(glob.glob("..\\Data\\155665\\Memory\\*.txt"))
+directory = 155665
+labels = np.asarray([path.lstrip("..\\Data\\155665\\Keys\\").upper().split('_')[0:2] for path in key_paths])
+
+# *41*B
 # print key_paths, mem_paths
 
 song_offset = [0,0.8,0.279,0.15]
 songlength = 2.0
 
-def create_numpy_array(path_to_memory,path_to_keys,bin_length,id_number):
+def create_numpy_array(directory,path_to_memory,path_to_keys,labels,bin_length):
 	'''
 	bin_length: length of bin in milliseconds
 	'''
@@ -30,16 +37,16 @@ def create_numpy_array(path_to_memory,path_to_keys,bin_length,id_number):
 			for i in range(binsize):
 				data[(20*j)+k,i] = len(np.where((temp>=i*(bin_length/1000.0)) & (temp<2*i*(bin_length/1000.0)))[0])
 
-	np.random.seed(0)
-	np.random.shuffle(data)
-	# np.save("../Data/Numpy/150820/150820_%d_%d.npy"%(bin_length,id_number),data)
-	return data
+	# np.random.seed(0)
+	# np.random.shuffle(data)
+	np.save("../Data/Numpy/{}/{}/{}_{}_{}.npy".format(directory,bin_length,labels[0],labels[1],bin_length),data)
+	# print "../Data/Numpy/{}/{}_{}_{}.npy".format(directory,labels[0],labels[1],bin_length)
+	# return data
 
 # if(key_paths.shape[0] == mem_paths.shape[0]):
 # 	R = key_paths.shape[0]
 # 	for r in range(R):
-# 		create_numpy_array(mem_paths[r],key_paths[r],16,r)
-# 		# print mem_paths[r], key_paths[r]
+# 		create_numpy_array(directory,mem_paths[r],key_paths[r],labels[r],bin_sizes[0])
 # else:
 # 	print "key_paths does not have the same shape as mem_paths"
 
@@ -51,9 +58,10 @@ def create_numpy_array(path_to_memory,path_to_keys,bin_length,id_number):
 # test = np.vstack([np.load("../Data/Numpy/150820/150820_16_5.npy"),np.load("../Data/Numpy/150820/150820_16_25.npy"),np.load("../Data/Numpy/150820/150820_16_15.npy")])
 # data = np.load("../Data/Numpy/150820/150820_2_666.npy")
 
-data = np.empty((55*80,126))
-for i in range(55):
-	data[(80*i):((i+1)*80)] = np.load("../Data/Numpy/150820/150820_16_{}.npy".format(i))
+data = np.empty((25*80,1001))
+npy_paths = glob.glob("..\\Data\\Numpy\\155665\\2\\*.npy")
+for i in range(25):
+	data[(80*i):((i+1)*80)] = np.load(npy_paths[i])
 data_points = data.shape[0]
 n_features = data.shape[1]-1
 # np.random.seed(97)
@@ -64,25 +72,26 @@ gamma = np.power(gamma,np.arange(1,6))
 c = [0.1,1.0,10.0,100.0,1000.0]
 parameters = np.transpose([np.tile(c,len(gamma)), np.repeat(gamma,len(c))])
 print parameters[4,0], (Fraction(parameters[7,1]).limit_denominator())
-# best_score = 0
-# best_weights = []
-# for j in range(200):
-# 	temp = np.copy(data)
-# 	np.random.shuffle(temp)
-# 	trainX = temp[:int(np.ceil(.8*data_points)),:-1]
-# 	trainY = temp[:int(np.ceil(.8*data_points)),-1]
-# 	testX = temp[int(np.ceil(.8*data_points)):,:-1]
-# 	testY = temp[int(np.ceil(.8*data_points)):,-1]
-# 	# clf = svm.SVC(C=parameters[j,0],class_weight='balanced',decision_function_shape='ovr',gamma=parameters[j,1])
-# 	clf = svm.SVC(C=parameters[4,0],class_weight='balanced',decision_function_shape='ovr',gamma=parameters[7,1])
-# 	clf.fit(trainX,trainY)
-# 	score = clf.score(testX,testY)
-# 	if(score>best_score):
-# 		best_score = score
-# 		best_weights = clf.dual_coef_
-# 	print "{} out of 200".format(j+1)
+best_score = 0
+best_weights = []
+for j in range(50):
+	temp = np.copy(data)
+	np.random.shuffle(temp)
+	trainX = temp[:int(np.ceil(.8*data_points)),:-1]
+	trainY = temp[:int(np.ceil(.8*data_points)),-1]
+	testX = temp[int(np.ceil(.8*data_points)):,:-1]
+	testY = temp[int(np.ceil(.8*data_points)):,-1]
+	# clf = svm.SVC(C=parameters[j,0],class_weight='balanced',decision_function_shape='ovr',gamma=parameters[j,1])
+	clf = svm.SVC(C=parameters[4,0],class_weight='balanced',decision_function_shape='ovr',gamma=parameters[7,1])
+	clf.fit(trainX,trainY)
+	score = clf.score(testX,testY)
+	if(score>best_score):
+		best_score = score
+		best_weights = clf.dual_coef_
+	print "{} out of 50".format(j+1)
 # np.save('../Data/weights.npy',best_weights)
 # np.save("../Data/accuracy.npy",accuracy)
+print best_score
 '''
 np.random.seed(97)
 np.random.shuffle(data)
