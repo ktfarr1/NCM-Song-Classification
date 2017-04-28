@@ -15,7 +15,7 @@ labels = np.asarray([path.lstrip("..\\Data\\155665\\Keys\\").upper().split('_')[
 # print key_paths, mem_paths
 
 song_offset = [0,0.8,0.279,0.15]
-songlength = 2.0
+song_length = 2.0
 
 def create_numpy_array(directory,path_to_memory,path_to_keys,labels,bin_length):
 	'''
@@ -23,18 +23,18 @@ def create_numpy_array(directory,path_to_memory,path_to_keys,labels,bin_length):
 	'''
 	spikes = np.loadtxt(path_to_memory)
 	keys = np.loadtxt(path_to_keys,delimiter=',')
-	binsize = int(np.ceil(2000/bin_length))
-	data = np.zeros((80,binsize+1))
+	n_bins = int(np.ceil(2000 / bin_length))
+	data = np.zeros((80, n_bins + 1))
 	# print 2000/16.0
 	for j in range(4):
 		label = keys[np.where(keys==j)[0]]
 		K = label.shape[0]
 		for k in range(K):
 			lower = label[k][0] + song_offset[j]
-			upper = label[k][0] + songlength
+			upper = label[k][0] + song_length
 			temp = (spikes[np.where((spikes>=lower) & (spikes <= upper))[0]]-lower)
-			data[(20*j)+k,binsize] = j
-			for i in range(binsize):
+			data[(20*j) + k, n_bins] = j
+			for i in range(n_bins):
 				data[(20*j)+k,i] = len(np.where((temp>=i*(bin_length/1000.0)) & (temp<2*i*(bin_length/1000.0)))[0])
 
 	# np.random.seed(0)
