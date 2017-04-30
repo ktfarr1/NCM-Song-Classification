@@ -1,4 +1,13 @@
 import numpy as np
+'''
+Function designed to score spike similarity based on how many atomic actions
+it takes to turn one spike train into another spike train
+
+Atomic actions are as follows:
+Adding/Deleting a spike
+Moving a spike
+
+'''
 
 def spike_similarity(t_a, t_b):
     w = {"add":1.0, "delete":1.0, "move":1.0/400}
