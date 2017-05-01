@@ -9,8 +9,14 @@ Moving a spike
 
 '''
 
+def spike_kernel(m_a,m_b):
+
+    return
+
 def spike_similarity(t_a, t_b):
-    w = {"add":1.0, "delete":1.0, "move":1.0/400}
+    # w = weights
+    # w = {"add":1.0, "delete":1.0, "move":1.0/100}
+    w = {"add":1.0, "delete":1.0, "move":1.0/3}
     #if diff is negative, we need to net remove items from a to transform it into b
     diff = np.count_nonzero(t_b) - np.count_nonzero(t_a)
     mask = np.invert(np.equal(t_a, t_b))
@@ -22,8 +28,8 @@ def decision_function(t_a,t_b,mask,net_diff,w,score):
     # while (net_diff != 0 & True in mask):
     # & (True in mask)
     while((net_diff != 0) | (True in mask)):
-        next_difference = np.random.choice(np.where(mask == True)[0])
-        # next_difference = np.where(mask == True)[0][0]
+        # next_difference = np.random.choice(np.where(mask == True)[0])
+        next_difference = np.where(mask == True)[0][0]
         right, left = search_radius(next_difference,w,t_a.shape[0])
         if(t_a[next_difference]>t_b[next_difference]):
             l_move = check_path(t_a,next_difference,left,mask,0)

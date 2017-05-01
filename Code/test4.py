@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from sklearn import mixture
 from sklearn import preprocessing
 
-def frequency_transform(input_array):
+def sum_to_zero(input_array):
 	rows = input_array.shape[0]
 	output_array = np.empty(input_array.shape,dtype=np.float)
 	for row in range(rows):

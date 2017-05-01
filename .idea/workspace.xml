@@ -2,8 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad01f2bc-f4a5-43d1-a039-dc24c93b5f8f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Figures.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/con11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/150820_128.npy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/150820_256.npy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/150820_32.npy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/150820_64.npy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/155665_128.npy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/155665_256.npy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/155665_32.npy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/155665_64.npy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/160510_128.npy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/160510_256.npy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/160510_32.npy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/160510_64.npy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/All_128.npy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/All_256.npy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/All_32.npy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/All_64.npy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Figures/CON1_histograms.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Figures/CON2_histograms.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Figures/CON3_histograms.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Figures/crossval_score_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Figures/crossval_score_Normalized.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Figures/crossval_score_Normalized2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Figures/crossval_score_Normalized3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Figures/crossval_score_PCA20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Figures/crossval_score_PCA40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Figures/crossval_score_PCA60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Figures/crossval_score_PCA80.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Figures/figure_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Figures/whitenoise_histograms.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Code/DataProcessing.py" afterPath="$PROJECT_DIR$/Code/DataProcessing.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Code/SpikeSimilarity.py" afterPath="$PROJECT_DIR$/Code/SpikeSimilarity.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Code/test2.py" afterPath="$PROJECT_DIR$/Code/test2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Code/test4.py" afterPath="$PROJECT_DIR$/Code/test4.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Code/test6.py" afterPath="$PROJECT_DIR$/Code/test6.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Code/test7.py" afterPath="$PROJECT_DIR$/Code/test7.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +51,9 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Final Project$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1493180762333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+    <SUITE FILE_PATH="coverage/Final_Project$test6.coverage" NAME="test6 Coverage Results" MODIFIED="1493676242034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
     <SUITE FILE_PATH="coverage/Final Project$test7.coverage" NAME="test7 Coverage Results" MODIFIED="1493546147944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
-    <SUITE FILE_PATH="coverage/Final_Project$test7.coverage" NAME="test7 Coverage Results" MODIFIED="1493554117996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+    <SUITE FILE_PATH="coverage/Final_Project$test7.coverage" NAME="test7 Coverage Results" MODIFIED="1493659515755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
     <SUITE FILE_PATH="coverage/Final Project$test6.coverage" NAME="test6 Coverage Results" MODIFIED="1493356548574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
     <SUITE FILE_PATH="coverage/Final Project$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1492812710716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
     <SUITE FILE_PATH="coverage/Final Project$test.coverage" NAME="test Coverage Results" MODIFIED="1493271586282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
@@ -24,35 +61,59 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DockManager">
+    <window id="2">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="SVC_test.py" pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/Code/SVC_test.py">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="1870">
+                    <caret line="113" column="9" lean-forward="false" selection-start-line="113" selection-start-column="5" selection-end-line="113" selection-end-column="9" />
+                    <folding>
+                      <element signature="e#0#18#0" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="DataProcessing.py" pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/Code/DataProcessing.py">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="615">
+                    <caret line="87" column="14" lean-forward="false" selection-start-line="87" selection-start-column="14" selection-end-line="87" selection-end-column="14" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file leaf-file-name="SpikeSimilarity.py" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/Code/SpikeSimilarity.py">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="306">
+                    <caret line="18" column="47" lean-forward="false" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DataProcessing.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Code/DataProcessing.py">
+      <file leaf-file-name="Figures.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Code/Figures.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="41" column="13" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Code/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Code/test2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="31" column="62" lean-forward="true" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
-              <folding />
+            <state relative-caret-position="605">
+              <caret line="42" column="10" lean-forward="false" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,28 +121,8 @@
       <file leaf-file-name="test3.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Code/test3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpikeSimilarity.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Code/SpikeSimilarity.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SVC_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Code/SVC_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="57" column="19" lean-forward="false" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+            <state relative-caret-position="-755">
+              <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -92,8 +133,8 @@
       <file leaf-file-name="test4.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Code/test4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="26" column="76" lean-forward="false" selection-start-line="26" selection-start-column="76" selection-end-line="26" selection-end-column="76" />
+            <state relative-caret-position="34">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="16" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -102,18 +143,18 @@
       <file leaf-file-name="test5.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Code/test5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="85">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test6.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test6.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Code/test6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="32" column="137" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="137" />
+            <state relative-caret-position="301">
+              <caret line="77" column="16" lean-forward="false" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -121,14 +162,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test7.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test7.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Code/test7.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-1717">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Code/test2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -150,10 +199,12 @@
       <find>binsize</find>
       <find>read</find>
       <find>model_</find>
-      <find>print</find>
-      <find>continue</find>
       <find>weight</find>
       <find>w[</find>
+      <find>save</find>
+      <find>print</find>
+      <find>continue</find>
+      <find>keys</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -163,17 +214,20 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/Code/test5.py" />
-        <option value="$PROJECT_DIR$/Code/test.py" />
         <option value="$PROJECT_DIR$/Code/test3.py" />
         <option value="$PROJECT_DIR$/Code/Data Processing.py" />
         <option value="$PROJECT_DIR$/Code/SVC_test.py" />
         <option value="$PROJECT_DIR$/Data/160510/test6.py" />
-        <option value="$PROJECT_DIR$/Code/DataProcessing.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/Code/test6.py" />
-        <option value="$PROJECT_DIR$/Code/SpikeSimilarity.py" />
+        <option value="$PROJECT_DIR$/Code/test2.py" />
+        <option value="$PROJECT_DIR$/Code/test.py" />
+        <option value="$PROJECT_DIR$/Code/Figures.py" />
         <option value="$PROJECT_DIR$/Code/test7.py" />
+        <option value="$PROJECT_DIR$/Code/test5.py" />
+        <option value="$PROJECT_DIR$/Code/test4.py" />
+        <option value="$PROJECT_DIR$/Code/DataProcessing.py" />
+        <option value="$PROJECT_DIR$/Code/SpikeSimilarity.py" />
+        <option value="$PROJECT_DIR$/Code/test6.py" />
       </list>
     </option>
   </component>
@@ -184,10 +238,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2552" />
-    <option name="y" value="345" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="1" />
+    <option name="y" value="-8" />
+    <option name="width" value="2572" />
+    <option name="height" value="1412" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -258,6 +312,15 @@
     <property name="nodejs_interpreter_path" value="c:/program files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="c:\program files\nodejs\node.exe" />
+    <property name="settings.editor.selected.configurable" value="pyconsole" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Final Project" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Final Project" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -278,7 +341,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test7">
+  <component name="RunManager" selected="Python.test6">
     <configuration default="false" name="test4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -349,7 +412,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Final Project" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/test.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Kevin Farr\Documents\School\Spring 2017\cs589\Final Project\Code\Figures.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -565,8 +628,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.test7" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test6" />
+        <item index="0" class="java.lang.String" itemvalue="Python.test6" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test7" />
         <item index="2" class="java.lang.String" itemvalue="Python.test" />
         <item index="3" class="java.lang.String" itemvalue="Python.test5" />
         <item index="4" class="java.lang.String" itemvalue="Python.test4" />
@@ -607,18 +670,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2552" y="345" width="1936" height="1056" extended-state="6" />
+    <frame x="1" y="-8" width="2572" height="1412" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5267994" sideWeight="0.5015625" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5137421" sideWeight="0.4984375" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30952382" sideWeight="0.4984375" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13536777" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39969373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -628,7 +692,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924962" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924962" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
@@ -644,7 +707,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="56" />
+      <option name="time" value="57" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -697,9 +760,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="39" column="20" lean-forward="false" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -735,9 +796,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="35" column="57" lean-forward="true" selection-start-line="35" selection-start-column="57" selection-end-line="35" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -767,7 +826,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/test.py">
+    <entry file="file://$PROJECT_DIR$/Code/Figures.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -786,7 +845,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1054">
           <caret line="65" column="23" lean-forward="true" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="70" />
-          <folding />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -821,68 +882,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/test.py">
+    <entry file="file://$PROJECT_DIR$/Code/con11.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/test2.py">
+    <entry file="file://$PROJECT_DIR$/Code/Figures.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="31" column="62" lean-forward="true" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Code/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Code/test4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="26" column="76" lean-forward="false" selection-start-line="26" selection-start-column="76" selection-end-line="26" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Code/test5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Code/test6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="32" column="137" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="137" />
+        <state relative-caret-position="605">
+          <caret line="42" column="10" lean-forward="false" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/ProgramData/Anaconda2/Lib/site-packages/sklearn/svm/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="229" column="0" lean-forward="false" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-755">
+          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/test4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="16" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/test5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/corex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1428">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Code/DataProcessing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="41" column="13" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="13" />
+        <state relative-caret-position="615">
+          <caret line="87" column="14" lean-forward="false" selection-start-line="87" selection-start-column="14" selection-end-line="87" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/SVC_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="57" column="19" lean-forward="false" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+        <state relative-caret-position="1870">
+          <caret line="113" column="9" lean-forward="false" selection-start-line="113" selection-start-column="5" selection-end-line="113" selection-end-column="9" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -891,16 +962,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/SpikeSimilarity.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="306">
+          <caret line="18" column="47" lean-forward="false" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/test7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        <state relative-caret-position="-1717">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda2/Lib/site-packages/sklearn/decomposition/truncated_svd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="186" column="0" lean-forward="false" selection-start-line="186" selection-start-column="0" selection-end-line="186" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/test6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="77" column="16" lean-forward="false" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>

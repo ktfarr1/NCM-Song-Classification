@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import matplotlib.mlab as mlab
 
 spikes = np.loadtxt('../Data/AK EMEK single unit 150820-selected/EMEK051_unitB_Memory.txt')
-keys = np.loadtxt('../Data/AK EMEK single unit 150820-selected/EMEK051_unitB_key.csv',delimiter=',')	
+keys = np.loadtxt('../Data/AK EMEK single unit 150820-selected/EMEK051_unitB_key.csv',delimiter=',')
 songlength = np.asarray([1.736, 3.689, 2.725, 2.218])
 
 # print label[19][0]

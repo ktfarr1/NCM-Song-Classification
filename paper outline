@@ -1,0 +1,87 @@
+Song analysis
+	spectrograms
+	???
+
+
+
+Preprocessing
+	Normalization
+	PCA attempts
+	Custom distance function
+
+Classification
+	Default svm
+		different bin sizes [1,2,4,8,16,40,80,125,250]
+		2000 = 2*10*10*10 = 2^4*5^3
+		hyperparameter selection
+	Adaboost svm
+
+	Custom distance function in SVM
+	Adaboost using custom distance
+
+Clustering
+	
+	Use in DBSCAN (compare with different distance functions)
+	t-SNE
+
+Data analysis
+	graphing histograms
+	graph example spike train raster plots
+
+Best Examples
+
+Title: 
+Author: Kevin Farr
+Introduction (0.5):
+	Describe the problem, why you think it's important/interesting
+	Summary of conclusions/findings
+Related Work (1):
+	Summarize 3-5 pieces of prior research
+		1. Paper using pattern classifier
+		2. Similarity algorithm
+		3. ???
+		4. ???
+		5. ???
+Methodology (1):
+	Describe Pipeline (preprocessing (need to include DR/Feature selection), core model, hyper-parameters)
+		Data binning
+		Train-test-split
+		Cross-validate SVM
+		Test Best SVM
+		Jam best hyperparameters into Adaboost
+
+		Custom Distance function
+		SVM KNN
+		Visualization with t-SNE
+
+Data Set (0.5)
+	Data description (re: amanda)
+		Data Cases
+		Features
+
+Experiments and Results (1.5)
+	Data Binning and standard SVM
+		Split data
+		Cross-validate
+		Test best on withheld test set
+
+	Adaboost on best classifier
+		do the thing, report results
+
+	LSH Forest
+		sdf
+
+	Custom Distance Function
+		Random slice
+		Complete cells in pool
+		Single Cell
+		t-SNE on Custom Distance Function
+		t-SNE on Same data in 16-80 bin sizes (Euclidean)
+
+Discussion and Conclusion (0.25-1)
+	Results
+
+References (1 max)
+	1. Paper using pattern classifier
+	2. Similarity algorithm
+
