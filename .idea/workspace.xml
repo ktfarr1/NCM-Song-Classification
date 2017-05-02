@@ -1,206 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/Code/run_me.py" line="235" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="ad01f2bc-f4a5-43d1-a039-dc24c93b5f8f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/SVC_test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/test2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Code/test3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/150820_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/150820_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/150820_4.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/150820_8.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/155665_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/155665_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/155665_4.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/155665_8.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/160510_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/160510_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/160510_4.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/160510_8.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bad data/150820_128.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bad data/150820_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bad data/150820_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bad data/150820_256.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bad data/150820_32.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bad data/150820_4.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bad data/150820_64.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bad data/150820_8.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bad data/155665_128.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bad data/155665_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bad data/155665_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bad data/155665_256.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bad data/155665_32.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bad data/155665_4.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bad data/155665_64.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bad data/155665_8.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bad data/160510_128.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bad data/160510_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bad data/160510_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bad data/160510_256.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bad data/160510_32.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bad data/160510_4.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bad data/160510_64.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Bad data/160510_8.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK016_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK016_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK017_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK017_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK022_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK022_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK023_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK023_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK024_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK024_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK025_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK025_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK026_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK026_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK028_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK028_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK029_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK029_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK029_UNITC_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK031_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK031_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK032_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK032_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK033_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK033_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK034_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK034_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK035_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK035_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK036_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK036_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK037_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK037_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK040_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK040_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK041_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK041_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK042_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK042_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK044_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK044_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK045_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK045_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK045_UNITC_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK047_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK047_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK047_UNITC_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK048_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK048_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK048_UNITC_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK051_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK051_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK052_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK052_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/150820/EMEK052_UNITC_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK002_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK002_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK003_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK003_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK005_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK005_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK006_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK006_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK008_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK008_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK009_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK009_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK009_UNITC_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK011_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK011_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK012_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK012_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK013_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK013_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK014_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK014_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK015_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK015_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK016_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/16/GPAK016_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK002_UNITA_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK002_UNITB_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK003_UNITA_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK003_UNITB_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK005_UNITA_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK005_UNITB_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK006_UNITA_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK006_UNITB_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK008_UNITA_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK008_UNITB_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK009_UNITA_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK009_UNITB_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK009_UNITC_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK011_UNITA_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK011_UNITB_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK012_UNITA_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK012_UNITB_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK013_UNITA_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK013_UNITB_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK014_UNITA_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK014_UNITB_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK015_UNITA_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK015_UNITB_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK016_UNITA_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/155665/2/GPAK016_UNITB_2.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK018_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK018_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK019_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK019_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK019_UNITC_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK020_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK020_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK021_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK021_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK022_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK022_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK023L_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK023L_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK023R_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK023R_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK023R_UNITC_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK024_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK024_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK025_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK025_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK026_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK026_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK027_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK027_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK029_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK029_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK030_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK030_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK031_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK031_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK032_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK032_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK033_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK033_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK034_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK034_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK034_UNITC_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK035_UNITA_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Numpy/160510/GPAK035_UNITB_16.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Sound Files/CON12.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Sound Files/CON22.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Sound Files/CON32.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/Sound Files/whitenoise2.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Data/accuracy.npy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notes.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/paper outline" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Code/test4.py" afterPath="$PROJECT_DIR$/Code/BayesianMixtureClustering.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Code/test5.py" afterPath="$PROJECT_DIR$/Code/SVC Testing.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Code/test6.py" afterPath="$PROJECT_DIR$/Code/run_me.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Code/test7.py" afterPath="$PROJECT_DIR$/Code/Custom Distance Testing.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Code/Figures.py" afterPath="$PROJECT_DIR$/Code/Figures.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Code/run_me.py" afterPath="$PROJECT_DIR$/Code/run_me.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -210,93 +13,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Final_Project$test7.coverage" NAME="test7 Coverage Results" MODIFIED="1493715079866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+    <SUITE FILE_PATH="coverage/Final Project$test6.coverage" NAME="test6 Coverage Results" MODIFIED="1493356548574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+    <SUITE FILE_PATH="coverage/Final_Project$run_me.coverage" NAME="run_me Coverage Results" MODIFIED="1493700911454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
     <SUITE FILE_PATH="coverage/Final Project$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1493180762333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
     <SUITE FILE_PATH="coverage/Final_Project$test6.coverage" NAME="test6 Coverage Results" MODIFIED="1493746054254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
-    <SUITE FILE_PATH="coverage/Final_Project$run_me.coverage" NAME="run_me Coverage Results" MODIFIED="1493700911454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
-    <SUITE FILE_PATH="coverage/Final Project$test7.coverage" NAME="test7 Coverage Results" MODIFIED="1493546147944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
-    <SUITE FILE_PATH="coverage/Final_Project$test7.coverage" NAME="test7 Coverage Results" MODIFIED="1493715079866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
-    <SUITE FILE_PATH="coverage/Final_Project$SVC_Testing.coverage" NAME="SVC Testing Coverage Results" MODIFIED="1493751132355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
-    <SUITE FILE_PATH="coverage/Final Project$test6.coverage" NAME="test6 Coverage Results" MODIFIED="1493356548574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
-    <SUITE FILE_PATH="coverage/Final Project$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1492812710716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
     <SUITE FILE_PATH="coverage/Final Project$test.coverage" NAME="test Coverage Results" MODIFIED="1493271586282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+    <SUITE FILE_PATH="coverage/Final Project$test7.coverage" NAME="test7 Coverage Results" MODIFIED="1493546147944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+    <SUITE FILE_PATH="coverage/Final_Project$SVC_Testing.coverage" NAME="SVC Testing Coverage Results" MODIFIED="1493751132355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+    <SUITE FILE_PATH="coverage/Final Project$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1492812710716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Figures.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Code/Figures.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="61" column="22" lean-forward="false" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BayesianMixtureClustering.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Code/BayesianMixtureClustering.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="509">
-              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SVC Testing.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Code/SVC Testing.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-181">
-              <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="run_me.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Code/run_me.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2840">
-              <caret line="42" column="127" lean-forward="false" selection-start-line="42" selection-start-column="127" selection-end-line="42" selection-end-column="127" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Custom Distance Testing.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Code/Custom Distance Testing.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1139">
-              <caret line="67" column="37" lean-forward="false" selection-start-line="67" selection-start-column="37" selection-end-line="67" selection-end-column="37" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataProcessing.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Code/DataProcessing.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1173">
-              <caret line="69" column="26" lean-forward="false" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -402,20 +134,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Final Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Final Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="Code" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -475,7 +193,6 @@
       <option name="SCRIPT_NAME" value="C:\Users\Kevin Farr\Documents\School\Spring 2017\cs589\Final Project\Code\run_me.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -494,7 +211,6 @@
       <option name="SCRIPT_NAME" value="C:\Users\Kevin Farr\Documents\School\Spring 2017\cs589\Final Project\Code\Figures.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="false" name="test7" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -513,7 +229,6 @@
       <option name="SCRIPT_NAME" value="C:\Users\Kevin Farr\Documents\School\Spring 2017\cs589\Final Project\Code\Custom Distance Testing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="false" name="run_me" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -532,7 +247,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/run_me.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="false" name="SVC Testing" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -551,7 +265,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/SVC Testing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -572,13 +285,6 @@
       <option name="CUSTOM_SETTINGS" value="false" />
       <option name="USE_OPTIONS" value="false" />
       <option name="OPTIONS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
-      <node-interpreter value="project" />
-      <working-dir value="" />
-      <envs />
-      <scope-kind value="ALL" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
@@ -634,7 +340,6 @@
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
@@ -664,6 +369,26 @@
       <scripts />
       <node-interpreter value="project" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Final Project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -697,10 +422,15 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Final Project" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_regexPattern" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;.&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
@@ -714,9 +444,16 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Final Project" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;.&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
@@ -730,10 +467,18 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Final Project" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;.&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
     <list size="5">
@@ -752,26 +497,6 @@
         <item index="4" class="java.lang.String" itemvalue="Python.test" />
       </list>
     </recent_temporary>
-    <configuration default="true" type="tests" factoryName="Attests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Final Project" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -788,28 +513,29 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="false" />
     <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13515624" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5267994" sideWeight="0.5015625" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3085758" sideWeight="0.4984375" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13515624" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39969373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3085758" sideWeight="0.4984375" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924962" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39969373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -828,11 +554,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/DataProcessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="19" lean-forward="true" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Code/SVC_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
           <caret line="57" column="19" lean-forward="false" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -844,21 +585,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/run_me.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="32" column="137" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="137" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/run_me.py" />
     <entry file="file://$PROJECT_DIR$/Code/SpikeSimilarity.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1649">
           <caret line="97" column="31" lean-forward="false" selection-start-line="97" selection-start-column="31" selection-end-line="97" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -866,25 +597,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/Custom Distance Testing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="39" column="20" lean-forward="false" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/Custom Distance Testing.py" />
     <entry file="file://$PROJECT_DIR$/Code/SVC_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
           <caret line="57" column="19" lean-forward="false" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -896,31 +616,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/run_me.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="32" column="137" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="137" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Code/Custom Distance Testing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="57" lean-forward="true" selection-start-line="35" selection-start-column="57" selection-end-line="35" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/run_me.py" />
+    <entry file="file://$PROJECT_DIR$/Code/Custom Distance Testing.py" />
     <entry file="file://$PROJECT_DIR$/Code/SpikeSimilarity.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1649">
           <caret line="97" column="31" lean-forward="false" selection-start-line="97" selection-start-column="31" selection-end-line="97" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -928,7 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -936,52 +636,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/Figures.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Code/run_me.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/Figures.py" />
+    <entry file="file://$PROJECT_DIR$/Code/run_me.py" />
     <entry file="file://$PROJECT_DIR$/Code/test3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1054">
           <caret line="65" column="23" lean-forward="true" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/BayesianMixtureClustering.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="26" column="76" lean-forward="true" selection-start-line="26" selection-start-column="76" selection-end-line="26" selection-end-column="76" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Code/SVC Testing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/BayesianMixtureClustering.py" />
+    <entry file="file://$PROJECT_DIR$/Code/SVC Testing.py" />
     <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/Data/160510/test6.py" />
     <entry file="file://$PROJECT_DIR$/Code/pyspike/PySpike_testdata.txt" />
@@ -994,7 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1002,23 +669,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
           <caret line="229" column="0" lean-forward="false" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/corex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1428">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/corex.py" />
     <entry file="file://C:/ProgramData/Anaconda2/Lib/site-packages/sklearn/decomposition/truncated_svd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="186" column="0" lean-forward="false" selection-start-line="186" selection-start-column="0" selection-end-line="186" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1026,25 +684,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="47" lean-forward="false" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/run_me.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="212" column="149" lean-forward="false" selection-start-line="212" selection-start-column="149" selection-end-line="212" selection-end-column="149" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/run_me.py" />
     <entry file="file://$PROJECT_DIR$/Code/SVC_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="148" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1052,7 +699,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1060,62 +706,79 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/Figures.py" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/BayesianMixtureClustering.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
+    <entry file="file://$PROJECT_DIR$/Figures/SVM 16 Bins_Confusion_Matrix.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/Figures.py">
+    <entry file="file://$PROJECT_DIR$/Figures/SVM 8 Bins_Confusion_Matrix.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figures/SVM 80 Bins_Confusion_Matrix.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figures/SVM 40 Bins_Confusion_Matrix.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figures/SVM 125 Bins_Confusion_Matrix.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/run_me.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="61" column="22" lean-forward="false" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="2689">
+          <caret line="179" column="7" lean-forward="false" selection-start-line="179" selection-start-column="7" selection-end-line="179" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/DataProcessing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="69" column="26" lean-forward="false" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="26" />
+        <state relative-caret-position="1057">
+          <caret line="90" column="27" lean-forward="true" selection-start-line="90" selection-start-column="27" selection-end-line="90" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/SVC Testing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-181">
-          <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/Custom Distance Testing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1139">
-          <caret line="67" column="37" lean-forward="false" selection-start-line="67" selection-start-column="37" selection-end-line="67" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/run_me.py">
+    <entry file="file://$PROJECT_DIR$/Code/BayesianMixtureClustering.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2840">
-          <caret line="42" column="127" lean-forward="false" selection-start-line="42" selection-start-column="127" selection-end-line="42" selection-end-column="127" />
+        <state relative-caret-position="153">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>

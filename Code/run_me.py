@@ -39,32 +39,7 @@ if __name__ == '__main__':
     '''
 
 
-    '''
-    # Uncomment this code to create arrays of multiple random cells, which are then used to test the custom similarity function
 
-    # for b in [1,2,3,4,5]:
-    #     start = time()
-    #     for p in [150820, 155665, 160510]:
-    #         np.random.seed(b)
-    #         key_paths = np.array(glob.glob("../Data/{}/Keys/*.csv".format(p)))
-    #         mem_paths = np.array(glob.glob("../Data/{}/Memory/*.txt".format(p)))
-    #         choice = np.random.choice(key_paths.shape[0],size=4,replace=False)
-    #         key_paths = key_paths[choice]
-    #         mem_paths = mem_paths[choice]
-    #         labels = np.asarray(
-    #             [path.lstrip("..\\Data\\{}\\Keys\\".format(p)).upper().split('_')[0:2] for path in key_paths])
-    #         data = DataProcessing.stack_arrays(p, mem_paths, key_paths, labels, 1)
-    #         np.save("../Data/{}_{}_Contiguous.npy".format(p, b), data)
-    #     list = glob.glob("../Data/*_{}_Contiguous.npy".format(b))
-    #     print list
-    #     full = np.vstack([np.load(l) for l in list])
-    #     np.save("../Data/All_{}_Contiguous.npy".format(b),full)
-    #     print "Finished bin size {}ms in {}sec".format(b, time() - start)
-
-    # for b in [1,2,3,4,5]:
-    #     start = time()
-
-    '''
 
     '''
     Basic SVC Operation on data set, using RBF kernel
@@ -171,7 +146,37 @@ if __name__ == '__main__':
 
     '''
     Truncated SVD Linear Dimensionality Reduction into t-distributed Stochastic Neighbor Embedding
+    This section loads the random single units (with normal Xtr and Xte arrays, as well as the corresponding
+    precomputed distance matrices, so the classification can be switched between precomputed and a different
+    supported kernel metric.
     
+    '''
+
+    '''
+    # Uncomment this code to create arrays of multiple random cells, which are then used to test the custom similarity function
+
+    # for b in [1,2,3,4,5]:
+    #     start = time()
+    #     for p in [150820, 155665, 160510]:
+    #         np.random.seed(b)
+    #         key_paths = np.array(glob.glob("../Data/{}/Keys/*.csv".format(p)))
+    #         mem_paths = np.array(glob.glob("../Data/{}/Memory/*.txt".format(p)))
+    #         choice = np.random.choice(key_paths.shape[0],size=4,replace=False)
+    #         key_paths = key_paths[choice]
+    #         mem_paths = mem_paths[choice]
+    #         labels = np.asarray(
+    #             [path.lstrip("..\\Data\\{}\\Keys\\".format(p)).upper().split('_')[0:2] for path in key_paths])
+    #         data = DataProcessing.stack_arrays(p, mem_paths, key_paths, labels, 1)
+    #         np.save("../Data/{}_{}_Contiguous.npy".format(p, b), data)
+    #     list = glob.glob("../Data/*_{}_Contiguous.npy".format(b))
+    #     print list
+    #     full = np.vstack([np.load(l) for l in list])
+    #     np.save("../Data/All_{}_Contiguous.npy".format(b),full)
+    #     print "Finished bin size {}ms in {}sec".format(b, time() - start)
+
+    # for b in [1,2,3,4,5]:
+    #     start = time()
+
     '''
 
     '''
